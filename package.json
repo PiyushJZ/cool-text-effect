@@ -1,8 +1,12 @@
 {
-  "name": "cool-effect",
+  "name": "cool-text-effect",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "author": {
+    "name": "Piyush Jain",
+    "email": "piyushjz0402@gmail.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
